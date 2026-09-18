@@ -1,8 +1,4 @@
 <div align="center">
-
-# 💫 About Me
-### 🚀 Building 24x7 | Full-Stack | UI/UX | Gen-AI
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Mastering+the+MERN+stack;Design+meets+Code;Always+Learning..." alt="Typing SVG" />
 
 ---
@@ -35,7 +31,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=devajuw&theme=react-dark&area=true&hide_border=false)
+![]([https://github-readme-activity-graph.vercel.app/graph?username=devajuw&theme=react-dark&area=true&hide_border=false](https://github-readme-activity-graph.vercel.app/graph?username=devajuw&theme=react-dark&area=true&hide_border=false))
 
 ---
 
