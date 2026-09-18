@@ -31,7 +31,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📈 Contribution Graph
-![]([https://github-readme-activity-graph.vercel.app/graph?username=devajuw&theme=react-dark&area=true&hide_border=false](https://github-readme-activity-graph.vercel.app/graph?username=devajuw&theme=react-dark&area=true&hide_border=false))
+![](https://raw.githubusercontent.com/devajuw/devajuw/output/activity-graph.svg?v=1)
 
 ---
 
